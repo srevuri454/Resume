@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="styles.xsl"?>
+<resume>
+	<name>Swetha Revuri</name>
+	<contactinfo>
+		<contact type='Cell'>(409) 527-2593</contact>
+		<contact type='Email'>srevuri@aii.edu</contact>
+	</contactinfo>
+	<education>
+		<degree>M.S., Computer Science-Southern University and A&amp;M College -Baton Rouge, LA</degree>
+		<degree>B.S., Electronics and Communication Engineering - Jawaharlal Nehru Technological University, Hyderabad, AP, India</degree>
+	</education>
+	<skills>
+		<software>Adobe Photoshop CS5, Adobe Flash CS5, Adobe Dreamweaver CS5, Adobe Fireworks CS5, Adobe Captivate CS5, Microsoft Office 2010 including Visio, Magento, Firebug.</software>
+		<technologies>HTML, CSS, XML, XSLT, PHP, XHTML and JavaScript</technologies>
+		<proglangs>Object oriented analysis and design with Java, C, C++ and MySQL.</proglangs>
+	</skills>
+	<profexperiences>
+		<experience>
+			<company>Art Institute of San Antonio, San Antonio, TX</company>
+			<date>01/11 – Present</date>
+			<title>Instructor: Web &amp; Interactive Media</title>
+			<duties>
+				<duty>Provide competency-based education</duty>
+				<duty>Design class instruction</duty>
+				<duty>Enable student exit competencies</duty>
+				<duty>Deliver learning centered instruction and encourage student success</duty>
+				<duty>Manage the classroom environment and contribute to a culture of learning</duty>
+				<duty>Relate professional/life/industry experience to learning by the continuation of professional/technical skills development, the introduction of industry perspective into courses, and the active awareness of professional/industry trends and opportunities.</duty>
+				<duty>Be accessible and assist students in solving problems promptly that may impede successful course completion through advising and/or referrals</duty>
+				<duty>Communicate appropriately with other faculty, staff and administration; express ideas and thoughts clearly in written form, and in a professional manner</duty>
+				<duty>Keep accurate records; submit grades, attendance and other reports on time</duty>
+			
+			</duties>
+		</experience>
+		<experience>
+			<company> Willis-Knighton Health Systems, Shreveport, LA</company>
+			<date>4/10 – 06/10</date>
+			<title>Web Designer</title>
+			<duties>
+				<duty>Gather requirements from physicians and build their individual website.</duty>
+				<duty>Create PowerPoint presentation to explain the rough look of the website.</duty>
+				<duty>Create XML based WebPages.</duty>
+				<duty>Develop user Interface using JSP, HTML and JavaScript.</duty>
+				<duty>Create and edit Graphics using Adobe Photoshop and Adobe Fireworks.</duty>
+				<duty>Use adobe flash for excellent visual experience.</duty>
+				<duty>Import data from XML using JavaScript. </duty>
+				<duty>Created High Resolution PSD files for posters and banners. </duty>
+				<duty>Created and applied various effects such as masking, transparency and duotone effects to Photoshop Document (PSD) files.</duty>
+				<duty>Use Adobe Dreamweaver CS3 to create reusable templates.</duty>
+				<duty>Involved in troubleshooting the look and feel of the web pages in different browsers. </duty>
+		</duties>
+			
+		</experience>
+	</profexperiences>
+</resume>
+
+
+
+                            
